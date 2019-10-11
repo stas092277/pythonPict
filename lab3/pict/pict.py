@@ -57,5 +57,10 @@ for i in range(2):
     brushColor("green")
     circle(x, 190, 20)
     x += 40
+    
+penColor("black")
+brushColor("pink")
+circle(400, 40, 30)
+
 
 run()
